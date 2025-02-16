@@ -48,6 +48,8 @@ public class Main {
         } catch (Exception e) {
             System.out.println("Error al pintar");
         }
+        System.out.println("hola Mundo");
+        System.out.println("Lineas Nuevas");
     }
     
 }
